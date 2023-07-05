@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EC2</string>
+    <string name="version">Versión 1.0.0</string>
+    <string name="google_api_key" translatable="false">AIzaSyCTF3Smvj1FUoE-ZKyS4L18NNaHcBoDxNM</string>
+</resources>
