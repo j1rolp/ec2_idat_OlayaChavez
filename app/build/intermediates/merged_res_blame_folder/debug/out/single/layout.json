@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.ec2.app-mergeDebugResources-30:/layout/activity_login.xml",
+        "source": "com.example.ec2.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.ec2.app-mergeDebugResources-30:/layout/activity_foto_mapa.xml",
+        "source": "com.example.ec2.app-main-33:/layout/activity_foto_mapa.xml"
+    },
+    {
+        "merged": "com.example.ec2.app-mergeDebugResources-30:/layout/activity_splash_screen.xml",
+        "source": "com.example.ec2.app-main-33:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.ec2.app-mergeDebugResources-30:/layout/activity_mapa.xml",
+        "source": "com.example.ec2.app-main-33:/layout/activity_mapa.xml"
+    },
+    {
+        "merged": "com.example.ec2.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.ec2.app-main-33:/layout/activity_main.xml"
+    }
+]

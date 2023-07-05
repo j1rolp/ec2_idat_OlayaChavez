@@ -1,0 +1,6 @@
+com.example.ec2.test.app-annotation-experimental-1.3.0-0 C:\Users\jirol\.gradle\caches\transforms-3\1a500a56f5684b285b0cf266f9137ef3\transformed\annotation-experimental-1.3.0\res
+com.example.ec2.test.app-core-1.5.0-1 C:\Users\jirol\.gradle\caches\transforms-3\33f1d42a9ad3be18161f54fc03c857bf\transformed\core-1.5.0\res
+com.example.ec2.test.app-androidTest-2 C:\Users\jirol\AndroidStudioProjects\EC2\app\build\generated\res\resValues\androidTest\debug
+com.example.ec2.test.app-mergeDebugAndroidTestResources-3 C:\Users\jirol\AndroidStudioProjects\EC2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.ec2.test.app-mergeDebugAndroidTestResources-4 C:\Users\jirol\AndroidStudioProjects\EC2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.ec2.test.app-merged_res-5 C:\Users\jirol\AndroidStudioProjects\EC2\app\build\intermediates\merged_res\debugAndroidTest
